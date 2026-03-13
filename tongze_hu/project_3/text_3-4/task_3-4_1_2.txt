@@ -1,0 +1,33 @@
+total 2.8M
+4.0K drwxr-xr-x  27 root root 4.0K Mar 12 14:09 .
+4.0K drwxr-xr-x  27 root root 4.0K Mar 12 14:09 ..
+   0 lrwxrwxrwx   1 root root    7 Apr 22  2024 bin -> usr/bin
+4.0K drwxr-xr-x   2 root root 4.0K Feb 26  2024 bin.usr-is-merged
+4.0K drwxr-xr-x   2 root root 4.0K Apr 22  2024 boot
+   0 drwxr-xr-x  15 root root 3.8K Mar 12 14:09 dev
+4.0K drwxr-xr-x  88 root root 4.0K Mar 12 14:21 etc
+4.0K drwxr-xr-x   3 root root 4.0K Feb 21 21:27 home
+2.7M -rwxr-xr-x   1 root root 2.7M Dec 12 04:58 init
+   0 lrwxrwxrwx   1 root root    7 Apr 22  2024 lib -> usr/lib
+4.0K drwxr-xr-x   2 root root 4.0K Apr  8  2024 lib.usr-is-merged
+   0 lrwxrwxrwx   1 root root    9 Apr 22  2024 lib64 -> usr/lib64
+ 16K drwx------   2 root root  16K Feb 21 21:25 lost+found
+4.0K drwxr-xr-x   2 root root 4.0K Feb 10 03:54 media
+4.0K drwxr-xr-x   5 root root 4.0K Feb 21 21:25 mnt
+4.0K drwxr-xr-x   2 root root 4.0K Feb 10 03:54 opt
+   0 dr-xr-xr-x 273 root root    0 Mar 12 14:09 proc
+4.0K drwx------   3 root root 4.0K Feb 10 03:56 root
+   0 drwxr-xr-x  19 root root  600 Mar 12 14:21 run
+   0 lrwxrwxrwx   1 root root    8 Apr 22  2024 sbin -> usr/sbin
+4.0K drwxr-xr-x   2 root root 4.0K Mar 31  2024 sbin.usr-is-merged
+4.0K drwxr-xr-x   2 root root 4.0K Feb 21 21:25 snap
+4.0K drwxr-xr-x   2 root root 4.0K Feb 10 03:54 srv
+   0 dr-xr-xr-x  13 root root    0 Mar 12 14:14 sys
+4.0K drwxrwxrwt   8 root root 4.0K Mar 12 14:24 tmp
+4.0K drwxr-xr-x  12 root root 4.0K Feb 10 03:54 usr
+4.0K drwxr-xr-x  13 root root 4.0K Feb 21 21:25 var
+4.0K drwx------   2 root root 4.0K Mar 12 14:09 wslBHLPdn
+4.0K drwx------   2 root root 4.0K Mar 12 14:09 wslOnFEcn
+4.0K drwx------   2 root root 4.0K Mar 12 14:09 wslgaKocn
+4.0K drwx------   2 root root 4.0K Mar 12 14:09 wslnDaMPn
+4.0K drwx------   2 root root 4.0K Mar 12 14:09 wsloBPipi
